@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redjorm&label=Profile%20views&color=0e75b6&style=flat" alt="redjorm" /> </p>
 
-
-
-- I’m looking to collaborate on [Rick And Morty](https://github.com/nbarazarte/rick-and-morty)
-
 - My Portfolio [https://new-portafolio-jc.netlify.app/](https://new-portafolio-jc.netlify.app/)
 
 - You can contact me here **redjorm12@gmail.com**
