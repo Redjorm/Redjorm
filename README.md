@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jesús Camacho</h1>
+<h1 align="center">Hi, I'm Jesús Camacho</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redjorm&label=Profile%20views&color=0e75b6&style=flat" alt="redjorm" /> </p>
 
-- I’m currently working on [Pokedex](https://github.com/Redjorm/pokeapi)
+
 
 - I’m looking to collaborate on [Rick And Morty](https://github.com/nbarazarte/rick-and-morty)
 
